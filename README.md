@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Akash Annaram 👋</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | Turning Raw Data into Meaningful Insights</h3>
+<h3 align="center">📊 Data Analyst | Turning Raw Data into Meaningful Insights</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Fresher;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Open+to+Job+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Fresher;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
